@@ -9,4 +9,7 @@ Discord: InsertSoda#3659
 
 ### Projects im working on
 Jumper Planet (Brick Hill)
-BrickMiners (Brick Hill)
+
+BrickMiners (Brick Hill, development haulted)
+
+Castle Noob (Brick Hill)
